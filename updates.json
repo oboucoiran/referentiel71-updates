@@ -1,10 +1,10 @@
 {
   "appName": "Référentiel71",
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://github.com/oboucoiran/referentiel71-updates/releases/download/v1.6/Referentiel71-v1.6.apk",
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://github.com/oboucoiran/referentiel71-updates/releases/download/v1.7/Referentiel71-v1.7.apk",
   "releaseDate": "2026-08-12",
-  "title": "Mise à jour 1.6 disponible",
-  "description": "Amélioration du positionnement du bouton Favori dans les PDF et optimisation de l'affichage des référentiels JSP sur les petits écrans et Fold fermé.",
+  "title": "Mise à jour 1.7 disponible",
+  "description": "Ajout de la recherche interne dans les PDF Résultats limités au document actuellement ouvert Accès direct à la page depuis le résultat Bouton de recherche placé sous le favori et Amélioration de la navigation dans les référentiels",
   "mandatory": false
 }
