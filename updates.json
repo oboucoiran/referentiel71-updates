@@ -1,10 +1,10 @@
 {
   "appName": "Référentiel71",
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/oboucoiran/referentiel71-updates/releases/download/v1.4/Referentiel71-v1.4.apk",
-  "releaseDate": "2026-08-10",
-  "title": "Mise à jour 1.4 disponible",
-  "description": "Ajout des favoris, amélioration de la recherche et nouvelle rubrique Quoi de neuf avec les référentiels SUAP de juillet 2026.",
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/oboucoiran/referentiel71-updates/releases/download/v1.5/Referentiel71-v1.5.apk",
+  "releaseDate": "2026-08-12",
+  "title": "Mise à jour 1.5 disponible",
+  "description": "Nouveau module JSP avec programmes JSP 1 à JSP 4 et référentiels nationaux JSP/JMP, ajout des fiches réflexes, navigation rapide dans les PDF, filtres de recherche et recherche enrichie.",
   "mandatory": false
 }
