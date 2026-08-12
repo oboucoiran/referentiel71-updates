@@ -1,10 +1,10 @@
 {
   "appName": "Référentiel71",
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apkUrl": "https://github.com/oboucoiran/referentiel71-updates/releases/download/v1.5/Referentiel71-v1.5.apk",
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://github.com/oboucoiran/referentiel71-updates/releases/download/v1.6/Referentiel71-v1.6.apk",
   "releaseDate": "2026-08-12",
-  "title": "Mise à jour 1.5 disponible",
-  "description": "Nouveau module JSP avec programmes JSP 1 à JSP 4 et référentiels nationaux JSP/JMP, ajout des fiches réflexes, navigation rapide dans les PDF, filtres de recherche et recherche enrichie.",
+  "title": "Mise à jour 1.6 disponible",
+  "description": "Amélioration du positionnement du bouton Favori dans les PDF et optimisation de l'affichage des référentiels JSP sur les petits écrans et Fold fermé.",
   "mandatory": false
 }
