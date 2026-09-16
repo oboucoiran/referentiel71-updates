@@ -1,10 +1,10 @@
 {
   "appName": "Référentiel71",
-  "versionCode": 8,
-  "versionName": "1.7",
-  "apkUrl": "https://github.com/oboucoiran/referentiel71-updates/releases/download/v1.7/Referentiel71-v1.7.apk",
-  "releaseDate": "2026-08-12",
-  "title": "Mise à jour 1.7 disponible",
-  "description": "Ajout de la recherche interne dans les PDF Résultats limités au document actuellement ouvert Accès direct à la page depuis le résultat Bouton de recherche placé sous le favori et Amélioration de la navigation dans les référentiels",
+  "versionCode": 9,
+  "versionName": "1.8",
+  "apkUrl": "https://github.com/oboucoiran/referentiel71-updates/releases/download/v1.8/Referentiel71-v1.8.apk",
+  "releaseDate": "2026-09-16",
+  "title": "Mise à jour 1.8 disponible",
+  "description": "Amélioration de la recherche avec ajout de la MGO secours routier 5S et des mots-clés associés Accès direct à la partie Opérations de secours en milieu routier Ajout de recherches 5S 5 S MGO SR 5i et termes liés à la sécurisation et à la sortie de victime",
   "mandatory": false
 }
