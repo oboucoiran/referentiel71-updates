@@ -1,10 +1,10 @@
 {
   "appName": "Référentiel71",
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apkUrl": "https://github.com/oboucoiran/referentiel71-updates/releases/download/v1.8/Referentiel71-v1.8.apk",
-  "releaseDate": "2026-09-16",
-  "title": "Mise à jour 1.8 disponible",
-  "description": "Amélioration de la recherche avec ajout de la MGO secours routier 5S et des mots-clés associés Accès direct à la partie Opérations de secours en milieu routier Ajout de recherches 5S 5 S MGO SR 5i et termes liés à la sécurisation et à la sortie de victime",
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apkUrl": "https://github.com/oboucoiran/referentiel71-updates/releases/download/v1.9/Referentiel71-v1.9.apk",
+  "releaseDate": "2026-09-18",
+  "title": "Mise à jour 1.9 disponible",
+  "description": "Ajout de la nouvelle rubrique EMPLOIS avec 34 référentiels nationaux de formation, activités, compétences et évaluation. Intégration des documents EMPLOIS à la recherche plein texte avec nouveau filtre dédié et accès direct aux pages correspondantes.",
   "mandatory": false
 }
