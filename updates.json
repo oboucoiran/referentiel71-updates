@@ -1,10 +1,10 @@
 {
   "appName": "Référentiel71",
-  "versionCode": 11,
-  "versionName": "1.10",
-  "apkUrl": "https://github.com/oboucoiran/referentiel71-updates/releases/download/v1.10/Referentiel71-v1.10.apk",
-  "releaseDate": "2026-09-18",
-  "title": "Mise à jour 1.10 disponible",
-  "description": "Ajout de la rubrique EMPLOIS avec 34 référentiels nationaux de formation, activités, compétences et évaluation. Intégration des référentiels EMPLOIS à la recherche plein texte avec filtre dédié et accès direct aux pages correspondantes. Mise à jour de la rubrique Quoi de neuf avec les nouveautés de septembre 2026 et conservation de l'historique de juillet 2026.",
+  "versionCode": 12,
+  "versionName": "1.11",
+  "apkUrl": "https://github.com/oboucoiran/referentiel71-updates/releases/download/v1.11/Referentiel71-v1.11.apk",
+  "releaseDate": "2026-09-19",
+  "title": "Mise à jour 1.11 disponible",
+  "description": "Révision intelligente enrichie avec 900 questions : 300 SUAP, 300 GTO et 300 GDO. Nouveau mode MIXTE, statistiques détaillées et fonction Réviser mes erreurs.",
   "mandatory": false
 }
