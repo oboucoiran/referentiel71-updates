@@ -1,10 +1,10 @@
 {
   "appName": "Référentiel71",
-  "versionCode": 12,
-  "versionName": "1.11",
-  "apkUrl": "https://github.com/oboucoiran/referentiel71-updates/releases/download/v1.11/Referentiel71-v1.11.apk",
-  "releaseDate": "2026-09-19",
-  "title": "Mise à jour 1.11 disponible",
-  "description": "Révision intelligente enrichie avec 900 questions : 300 SUAP, 300 GTO et 300 GDO. Nouveau mode MIXTE, statistiques détaillées et fonction Réviser mes erreurs.",
+  "versionCode": 13,
+  "versionName": "1.12",
+  "apkUrl": "https://github.com/oboucoiran/referentiel71-updates/releases/download/v1.12/Referentiel71-v1.12.apk",
+  "releaseDate": "2026-10-04",
+  "title": "Mise à jour 1.12 disponible",
+  "description": "Code ONU / Produits chimiques enrichi avec la nouvelle base CAMEO de 5 730 fiches. Recherche par numéro ONU/NA, CAS et nom, données chimiques et opérationnelles enrichies et affichage en français.",
   "mandatory": false
 }
