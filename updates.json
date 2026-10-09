@@ -1,10 +1,10 @@
 {
   "appName": "Référentiel71",
-  "versionCode": 13,
-  "versionName": "1.12",
-  "apkUrl": "https://github.com/oboucoiran/referentiel71-updates/releases/download/v1.12/Referentiel71-v1.12.apk",
-  "releaseDate": "2026-10-04",
-  "title": "Mise à jour 1.12 disponible",
-  "description": "Code ONU / Produits chimiques enrichi avec la nouvelle base CAMEO de 5 730 fiches. Recherche par numéro ONU/NA, CAS et nom, données chimiques et opérationnelles enrichies et affichage en français.",
+  "versionCode": 14,
+  "versionName": "1.13",
+  "apkUrl": "https://github.com/oboucoiran/referentiel71-updates/releases/download/v1.13/Referentiel71-v1.13.apk",
+  "releaseDate": "2026-10-09",
+  "title": "Mise à jour 1.13 disponible",
+  "description": "Ajout des vignettes de première page des PDF dans les rubriques GDO, GTO, SUAP, Documents, JSP et Emplois. Nouveau référentiel national Surveillance et sauvetage aquatique (SSA), édition septembre 2026. Amélioration de la présentation des documents et de l'affichage des dates de version. Suppression des pastilles 2026 dans Emplois.",
   "mandatory": false
 }
